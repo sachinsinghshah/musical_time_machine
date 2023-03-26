@@ -5,8 +5,8 @@ from spotipy.oauth2 import SpotifyOAuth
 from pprint import pprint
 import json
 
-SPOTIPY_CLIENT_ID = "d1bcc14ebb4f40219b26347df585e8f1"
-SPOTIPY_CLIENT_SECRET = "e52342c068ae4cba822c8c9d1f060b18"
+SPOTIPY_CLIENT_ID = YOUR_CLIENT_ID
+SPOTIPY_CLIENT_SECRET = YOUR_CLIENT_SECRET
 SPOTIPY_REDIRECT_URI = "http://example.com"
 SCOPE = "playlist-modify-private"
 
